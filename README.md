@@ -1,3 +1,3 @@
  <i> Avi The Pro </i>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://t.me/ll_AVI_ll)
+[![Deploy](https://telegra.ph/file/6df24cb4af3531cd8b1cb.jpg)](https://t.me/ll_AVI_ll)
